@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srinivasa Murthy Gunturu
 - 👀 I’m interested in Solving problems for Data
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me srinivasa.murthy.gunturu@temple.edu
 
 <!---
